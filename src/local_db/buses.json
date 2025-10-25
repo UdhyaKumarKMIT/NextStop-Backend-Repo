@@ -1,0 +1,73 @@
+[
+    {
+      "busNumber": "TN01AB1234",
+      "busName": "KPN Travels",
+      "type": "AC",
+      "routeId": "route1",
+      "operatorName1": "Ravi Kumar",
+      "operatorPhone1": "9898989898",
+      "operatorName2": "Sankar",
+      "operatorPhone2": "9876500000"
+    },
+    {
+      "busNumber": "TN02CD5678",
+      "busName": "Parveen Travels",
+      "type": "Non-AC",
+      "routeId": "route1",
+      "operatorName1": "Suresh Kumar",
+      "operatorPhone1": "9797979797",
+      "operatorName2": null,
+      "operatorPhone2": null
+    },
+    {
+      "busNumber": "TN03EF9012",
+      "busName": "Orange Tours",
+      "type": "Sleeper",
+      "routeId": "route2",
+      "operatorName1": "Ramesh",
+      "operatorPhone1": "9696969696",
+      "operatorName2": "Kumar",
+      "operatorPhone2": "9600000000"
+    },
+    {
+      "busNumber": "TN04GH3456",
+      "busName": "National Travels",
+      "type": "AC",
+      "routeId": "route2",
+      "operatorName1": "Vijay",
+      "operatorPhone1": "9595959595",
+      "operatorName2": null,
+      "operatorPhone2": null
+    },
+    {
+      "busNumber": "TN05IJ7890",
+      "busName": "Madurai Express",
+      "type": "Sleeper",
+      "routeId": "route3",
+      "operatorName1": "Karthik",
+      "operatorPhone1": "9494949494",
+      "operatorName2": null,
+      "operatorPhone2": null
+    },
+    {
+      "busNumber": "TN06KL3456",
+      "busName": "SRM Travels",
+      "type": "AC",
+      "routeId": "route3",
+      "operatorName1": "Manoj",
+      "operatorPhone1": "9393939393",
+      "operatorName2": null,
+      "operatorPhone2": null
+    },
+    {
+      "busNumber": "TN07MN7890",
+      "busName": "SETC",
+      "type": "Non-AC",
+      "routeId": "route1",
+      "operatorName1": "Selva",
+      "operatorPhone1": "9292929292",
+      "operatorName2": null,
+      "operatorPhone2": null
+    }
+  ]
+  

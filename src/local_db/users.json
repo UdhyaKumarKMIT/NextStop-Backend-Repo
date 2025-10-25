@@ -1,0 +1,73 @@
+[
+    {
+      "username": "john_doe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "mobileNo": "9876543210",
+      "altMobileNo": "9444444444",
+      "dob": "1992-03-12T00:00:00.000Z",
+      "address": "12, MG Road, Madurai, TN",
+      "password": "Password@123",
+      "role": "user",
+      "resetCode": null,
+      "resetCodeExpiry": null
+    },
+    {
+      "username": "jane_smith",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane@example.com",
+      "mobileNo": "9876543211",
+      "altMobileNo": null,
+      "dob": "1995-07-22T00:00:00.000Z",
+      "address": "45, Anna Salai, Chennai, TN",
+      "password": "Password@123",
+      "role": "user",
+      "resetCode": null,
+      "resetCodeExpiry": null
+    },
+    {
+      "username": "vignesh_admin",
+      "firstName": "Vignesh",
+      "lastName": "Admin",
+      "email": "admin@nextstop.com",
+      "mobileNo": "9876543212",
+      "altMobileNo": "9000000000",
+      "dob": "1990-01-05T00:00:00.000Z",
+      "address": "1, College Road, Coimbatore, TN",
+      "password": "Admin@12345",
+      "role": "admin",
+      "resetCode": null,
+      "resetCodeExpiry": null
+    },
+    {
+      "username": "ram_kumar",
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "email": "ram@example.com",
+      "mobileNo": "9876543213",
+      "altMobileNo": null,
+      "dob": "1993-11-02T00:00:00.000Z",
+      "address": "78, OMR Road, Chennai, TN",
+      "password": "Password@123",
+      "role": "user",
+      "resetCode": null,
+      "resetCodeExpiry": null
+    },
+    {
+      "username": "priya_dev",
+      "firstName": "Priya",
+      "lastName": "Dev",
+      "email": "priya@example.com",
+      "mobileNo": "9876543214",
+      "altMobileNo": "9555555555",
+      "dob": "1996-05-14T00:00:00.000Z",
+      "address": "9, Kamarajar Rd, Trichy, TN",
+      "password": "Password@123",
+      "role": "user",
+      "resetCode": null,
+      "resetCodeExpiry": null
+    }
+  ]
+  

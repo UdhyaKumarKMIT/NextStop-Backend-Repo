@@ -1,0 +1,58 @@
+[
+    {
+      "username": "john_doe",
+      "busNumber": "TN01AB1234",
+      "routeId": "route1",
+      "totalSeats": 2,
+      "seatNumbers": "1-1,1-2",
+      "totalFare": 1500,
+      "journeyDate": "2025-10-22T00:00:00.000Z",
+      "boardingPoint": "Madurai Main",
+      "bookingStatus": "Confirmed"
+    },
+    {
+      "username": "jane_smith",
+      "busNumber": "TN02CD5678",
+      "routeId": "route1",
+      "totalSeats": 1,
+      "seatNumbers": "2-4",
+      "totalFare": 750,
+      "journeyDate": "2025-10-22T00:00:00.000Z",
+      "boardingPoint": "Madurai Mattuthavani",
+      "bookingStatus": "Confirmed"
+    },
+    {
+      "username": "ram_kumar",
+      "busNumber": "TN03EF9012",
+      "routeId": "route2",
+      "totalSeats": 1,
+      "seatNumbers": "3-1",
+      "totalFare": 800,
+      "journeyDate": "2025-10-23T00:00:00.000Z",
+      "boardingPoint": "Coimbatore Omni Bus Stand",
+      "bookingStatus": "Pending"
+    },
+    {
+      "username": "priya_dev",
+      "busNumber": "TN05IJ7890",
+      "routeId": "route3",
+      "totalSeats": 2,
+      "seatNumbers": "1-3,1-4",
+      "totalFare": 600,
+      "journeyDate": "2025-10-24T00:00:00.000Z",
+      "boardingPoint": "Trichy Central",
+      "bookingStatus": "Confirmed"
+    },
+    {
+      "username": "john_doe",
+      "busNumber": "TN06KL3456",
+      "routeId": "route3",
+      "totalSeats": 1,
+      "seatNumbers": "2-2",
+      "totalFare": 300,
+      "journeyDate": "2025-10-25T00:00:00.000Z",
+      "boardingPoint": "Trichy Main",
+      "bookingStatus": "Cancelled"
+    }
+  ]
+  

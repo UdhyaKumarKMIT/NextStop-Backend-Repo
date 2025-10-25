@@ -1,0 +1,24 @@
+[
+    {
+      "routeId": "route1",
+      "source": "Madurai",
+      "destination": "Chennai",
+      "distance": 460,
+      "duration": "7h 30m"
+    },
+    {
+      "routeId": "route2",
+      "source": "Coimbatore",
+      "destination": "Bangalore",
+      "distance": 370,
+      "duration": "6h 15m"
+    },
+    {
+      "routeId": "route3",
+      "source": "Trichy",
+      "destination": "Madurai",
+      "distance": 135,
+      "duration": "2h 15m"
+    }
+  ]
+  
