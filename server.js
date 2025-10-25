@@ -28,6 +28,10 @@ app.use('/api/routes',routeRoutes)
 app.use("/api/feedbacks", feedbackRoutes);
 
 // Start Server
+app.get('/', (req, res) => {
+  res.send('Express backend is running!');
+});
+
 const PORT = process.env.PORT || 5050;
 app.listen(PORT, () => {
   console.log(`Server running at: http://localhost:${PORT}`);
